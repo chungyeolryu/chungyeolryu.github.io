@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_chac_pet=self.webpackChunk_chac_pet||[]).push([[869],{2869:function(e,c,n){n.r(c),n.d(c,{default:function(){return u}});n(1867);var t=n(838);function u(){return(0,t.jsx)("div",{children:"MedicalQuestionResult - \ubb38\uc9c4\uacb0\uacfc"})}}}]);
+//# sourceMappingURL=869.974d148e.chunk.js.map

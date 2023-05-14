@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/860.a780548c.chunk.js","mappings":"6KAEe,SAASA,IACtB,OACDC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,0DAEN,C","sources":["pages/AnalysisResult.js"],"sourcesContent":["import React from 'react'\n\nexport default function AnalysisResult() {\n  return (\n\t<div>AnalysisResult - 사진분석 결과</div>\n  )\n}\n"],"names":["AnalysisResult","_jsx","children"],"sourceRoot":""}

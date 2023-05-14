@@ -1,0 +1,21 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <rect fill="#F0F2F6" x="2" y="2" width="44" height="44" rx="9"/>
+        <path d="M33.766 20.73c-2.428 5.579-4.426 8.595-9.887 8.595-5.46 0-8.151-3.016-9.885-8.595C12.568 16.147 18.42 15 23.879 15c5.46 0 11.82 1.29 9.887 5.73" fill="#FFF"/>
+        <path d="M33.766 20.73c-2.428 5.579-4.426 8.595-9.887 8.595-5.46 0-8.151-3.016-9.885-8.595C12.568 16.147 18.42 15 23.879 15c5.46 0 11.82 1.29 9.887 5.73z" stroke="#CAD1DB" stroke-width="1.5"/>
+        <path d="M29.424 23.378s-2.91-1.072-2.91 2.187" fill="#FFF"/>
+        <path d="M29.424 23.378s-2.91-1.072-2.91 2.187" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M17.73 23.21s3.393-.903 3.373 2.356" fill="#FFF"/>
+        <path d="M17.73 23.21s3.393-.903 3.373 2.356" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M17.66 25.96s-.091.175-.293.454" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M15.657 28.112a9.948 9.948 0 0 1-1.728 1.028" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.742,2.225"/>
+        <path d="M12.802 29.594c-.167.057-.34.112-.518.164M19.419 27.233s-.101.169-.252.475" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M18.356 29.786c-.163.544-.311 1.156-.409 1.814" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.6850000000000001,2.056"/>
+        <path d="M17.834 32.716c-.01.18-.014.363-.014.547" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M30.34 25.96s.091.175.293.454" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M32.343 28.112a9.948 9.948 0 0 0 1.728 1.028" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="0.742,2.225"/>
+        <path d="M35.198 29.594c.167.057.34.112.518.164M28.581 27.233s.101.169.252.475" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M29.644 29.786c.163.544.311 1.156.409 1.814" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="0.6850000000000001,2.056"/>
+        <path d="M30.166 32.716c.01.18.014.363.014.547" stroke="#CAD1DB" stroke-width="1.5" stroke-linecap="round"/>
+    </g>
+</svg>

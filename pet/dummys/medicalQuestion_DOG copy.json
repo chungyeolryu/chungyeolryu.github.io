@@ -1,0 +1,1016 @@
+{
+    "category": [
+        {
+            "categoryId": 26,
+            "categoryType": "피부",
+            "petType": "CAT",
+            "title": "#NAME(이)가 자주 보이는 행동이나 습관을 모두 선택해주세요.",
+            "comment": "동물병원 방문 이유 1위는 바로 피부 질환이에요.",
+            "number": 1,
+            "multiFg": "Y"
+        },
+        {
+            "categoryId": 27,
+            "categoryType": "치아",
+            "petType": "CAT",
+            "title": "#NAME(이)가 자주 보이는 행동이나 습관을 모두 선택해주세요.",
+            "comment": "치석은 입냄새 뿐만 아니라 잇몸의 염증을 유발해요.",
+            "number": 2,
+            "multiFg": "Y"
+        },
+        {
+            "categoryId": 28,
+            "categoryType": "뼈/관절",
+            "petType": "CAT",
+            "title": "#NAME(이)가 자주 보이는 행동이나 습관을 모두 선택해주세요.",
+            "comment": "펫보험 지급액 1위 질병은 바로 관절 질환이에요.",
+            "number": 3,
+            "multiFg": "Y"
+        },
+        {
+            "categoryId": 29,
+            "categoryType": "행동",
+            "petType": "CAT",
+            "title": "#NAME(이)가 자주 보이는 행동이나 습관을 모두 선택해주세요.",
+            "comment": "통계상 80%의 아이가 행동 문제를 가지고 있어요.",
+            "number": 4,
+            "multiFg": "Y"
+        },
+        {
+            "categoryId": 30,
+            "categoryType": "눈",
+            "petType": "CAT",
+            "title": "#NAME(이)가 자주 보이는 행동이나 습관을 모두 선택해주세요.",
+            "comment": "많은 품종들은 선천적으로 눈 질환에 취약해요.",
+            "number": 5,
+            "multiFg": "Y"
+        },
+        {
+            "categoryId": 31,
+            "categoryType": "면역력/호흡기",
+            "petType": "CAT",
+            "title": "#NAME(이)가 자주 보이는 행동이나 습관을 모두 선택해주세요.",
+            "comment": "바닥 생활을 하는 아이들은 병원균에 자주 노출돼요.",
+            "number": 6,
+            "multiFg": "Y"
+        },
+        {
+            "categoryId": 32,
+            "categoryType": "심장",
+            "petType": "CAT",
+            "title": "#NAME(이)가 자주 보이는 행동이나 습관을 모두 선택해주세요.",
+            "comment": "심장병은 진행성 질환으로 조기 진단이 중요해요.",
+            "number": 7,
+            "multiFg": "Y"
+        },
+        {
+            "categoryId": 33,
+            "categoryType": "신장/방광",
+            "petType": "CAT",
+            "title": "#NAME(이)가 자주 보이는 행동이나 습관을 모두 선택해주세요.",
+            "comment": "신장은 75%가 기능을 못할 때까지 증상이 없어요.",
+            "number": 8,
+            "multiFg": "Y"
+        },
+        {
+            "categoryId": 34,
+            "categoryType": "위/장",
+            "petType": "CAT",
+            "title": "#NAME(이)가 자주 보이는 행동이나 습관을 모두 선택해주세요.",
+            "comment": "만성 구토와 설사는 소화 질환의 징조일 수 있어요.",
+            "number": 9,
+            "multiFg": "Y"
+        },
+        {
+            "categoryId": 35,
+            "categoryType": "간",
+            "petType": "CAT",
+            "title": "#NAME(이)가 자주 보이는 행동이나 습관을 모두 선택해주세요.",
+            "comment": "침묵의 장기, 간은 증상이 잘 드러나지 않아요.",
+            "number": 10,
+            "multiFg": "Y"
+        },
+        {
+            "categoryId": 36,
+            "categoryType": "병력",
+            "petType": "CAT",
+            "title": "#NAME(이)가 지난 1년 동안 아파서 병원에 내원한 이유를 모두 골라주세요.",
+            "comment": "정기검진을 통해 질병을 발견하고 예방할 수 있어요.",
+            "number": 11,
+            "multiFg": "Y"
+        },
+        {
+            "categoryId": 37,
+            "categoryType": "병력",
+            "petType": "CAT",
+            "title": "#NAME(은)는 건강검진을 얼마나 자주 받나요?",
+            "comment": "정기검진을 통해 질병을 발견하고 예방할 수 있어요",
+            "number": 12,
+            "multiFg": "N"
+        },
+        {
+            "categoryId": 25,
+            "categoryType": "체중/체형",
+            "petType": "CAT",
+            "title": "#NAME의 체중을 알려주세요.",
+            "comment": "적정 체중을 유지하는 것은 건강에 아주 중요해요.",
+            "number": 13,
+            "multiFg": null
+        },
+        {
+            "categoryId": 24,
+            "categoryType": "체중/체형",
+            "petType": "CAT",
+            "title": "#NAME(이)와 비슷한 체형을 골라주세요.",
+            "comment": "적정 체중을 유지하는 것은 건강에 아주 중요해요.",
+            "number": 14,
+            "multiFg": "N"
+        },
+        {
+            "categoryId": 38,
+            "categoryType": "라이프스타일",
+            "petType": "CAT",
+            "title": "#NAME(은)는 외출냥이인가요?",
+            "comment": "라이프스타일에 따라 건강 상태가 달라질 수 있어요.",
+            "number": 15,
+            "multiFg": "N"
+        },
+        {
+            "categoryId": 39,
+            "categoryType": "라이프스타일",
+            "petType": "CAT",
+            "title": "#NAME의 하루 운동시간은 어느정도인가요? (장난감 놀이, 우다다, 술래잡기 등)",
+            "comment": "라이프스타일에 따라 건강 상태가 달라질 수 있어요.",
+            "number": 16,
+            "multiFg": "N"
+        },
+        {
+            "categoryId": 40,
+            "categoryType": "라이프스타일",
+            "petType": "CAT",
+            "title": "#NAME(은)는 간식을 얼마나 자주 먹나요?",
+            "comment": "라이프스타일에 따라 건강 상태가 달라질 수 있어요.",
+            "number": 17,
+            "multiFg": "N"
+        },
+        {
+            "categoryId": 41,
+            "categoryType": "라이프스타일",
+            "petType": "CAT",
+            "title": "#NAME의 빗질을 주기적으로 해주시나요?",
+            "comment": "라이프스타일에 따라 건강 상태가 달라질 수 있어요.",
+            "number": 18,
+            "multiFg": "N"
+        },
+        {
+            "categoryId": 45,
+            "categoryType": "병명",
+            "petType": "CAT",
+            "title": "#NAME(이)가 지금까지 걸렸던 병이 있다면 병명을 모두 입력해주세요.",
+            "comment": "구체적인 병명을 통해 취약 부위를 정확하게 분석해요.",
+            "number": 19,
+            "multiFg": null
+        },
+        {
+            "categoryId": 43,
+            "categoryType": "맞춤 건강 리포트 받기",
+            "petType": "CAT",
+            "title": "수의사가 작성한 #NAME의 건강 리포트를 받아보시려면 이메일을 남겨주세요.",
+            "comment": "이메일을 입력하시면 맞춤 건강 리포트를 보내드릴게요.",
+            "number": 20,
+            "multiFg": null
+        }
+    ],
+    "choice": [
+        {
+            "categoryId": 1,
+            "choiceId": 1,
+            "contents": "간"
+        },
+        {
+            "categoryId": 1,
+            "choiceId": 2,
+            "contents": "위/장"
+        },
+        {
+            "categoryId": 1,
+            "choiceId": 3,
+            "contents": "신장/방광"
+        },
+        {
+            "categoryId": 1,
+            "choiceId": 4,
+            "contents": "심장"
+        },
+        {
+            "categoryId": 1,
+            "choiceId": 5,
+            "contents": "면역력"
+        },
+        {
+            "categoryId": 1,
+            "choiceId": 6,
+            "contents": "치아"
+        },
+        {
+            "categoryId": 1,
+            "choiceId": 7,
+            "contents": "뼈/관절"
+        },
+        {
+            "categoryId": 1,
+            "choiceId": 8,
+            "contents": "귀/피부"
+        },
+        {
+            "categoryId": 1,
+            "choiceId": 9,
+            "contents": "눈"
+        },
+        {
+            "categoryId": 1,
+            "choiceId": 10,
+            "contents": "행동"
+        },
+        {
+            "categoryId": 1,
+            "choiceId": 11,
+            "contents": "없어요"
+        },
+        {
+            "categoryId": 2,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 2,
+            "choiceId": 4,
+            "contents": "발 끝을 수시로 핥거나 깨물어요."
+        },
+        {
+            "categoryId": 2,
+            "choiceId": 3,
+            "contents": "귀지가 많은 편이고 귀를 자주 긁어요."
+        },
+        {
+            "categoryId": 2,
+            "choiceId": 2,
+            "contents": "피부를 자주 가려워하는 편이에요."
+        },
+        {
+            "categoryId": 2,
+            "choiceId": 1,
+            "contents": "피부에 딱지나 뾰루지, 각질이 생겨요."
+        },
+        {
+            "categoryId": 3,
+            "choiceId": 1,
+            "contents": "양치질을 아파하는 것 같아요."
+        },
+        {
+            "categoryId": 3,
+            "choiceId": 2,
+            "contents": "이빨 색이 누렇게 보여요."
+        },
+        {
+            "categoryId": 3,
+            "choiceId": 3,
+            "contents": "갈수록 입냄새가 심해져요."
+        },
+        {
+            "categoryId": 3,
+            "choiceId": 4,
+            "contents": "사료나 간식을 흘리면서 먹어요."
+        },
+        {
+            "categoryId": 3,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 4,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 4,
+            "choiceId": 4,
+            "contents": "이유없이 아파하거나 몸을 떠는 경우가 있어요."
+        },
+        {
+            "categoryId": 4,
+            "choiceId": 3,
+            "contents": "걷는 모습이 어딘지 모르게 불편해보여요."
+        },
+        {
+            "categoryId": 4,
+            "choiceId": 2,
+            "contents": "예전처럼 활발하게 뛰어놀지 못해요."
+        },
+        {
+            "categoryId": 4,
+            "choiceId": 1,
+            "contents": "다리에서 뚝뚝거리는 느낌을 받은 적이 있어요."
+        },
+        {
+            "categoryId": 5,
+            "choiceId": 1,
+            "contents": "집에 혼자 남겨졌을 때 불안해하는 모습을 보여요."
+        },
+        {
+            "categoryId": 5,
+            "choiceId": 2,
+            "contents": "낯선 사람이나 동물에 대한 경계가 심해요."
+        },
+        {
+            "categoryId": 5,
+            "choiceId": 3,
+            "contents": "천둥 소리, 공사 소음 등 주변 큰 소리에 쉽게 놀라요."
+        },
+        {
+            "categoryId": 5,
+            "choiceId": 4,
+            "contents": "병원에 갈 때 스트레스를 많이 받아요."
+        },
+        {
+            "categoryId": 5,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 6,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 6,
+            "choiceId": 4,
+            "contents": "눈물을 많이 흘리는 편이에요."
+        },
+        {
+            "categoryId": 6,
+            "choiceId": 3,
+            "contents": "눈을 제대로 뜨지 못하는 경우가 있어요."
+        },
+        {
+            "categoryId": 6,
+            "choiceId": 2,
+            "contents": "눈이 충혈되고 붓는 경우가 있어요."
+        },
+        {
+            "categoryId": 6,
+            "choiceId": 1,
+            "contents": "눈이 예전과 달리 혼탁해졌어요."
+        },
+        {
+            "categoryId": 7,
+            "choiceId": 1,
+            "contents": "켁켁거리는 기침을 자주 해요."
+        },
+        {
+            "categoryId": 7,
+            "choiceId": 2,
+            "contents": "재채기를 종종 하는 편이에요."
+        },
+        {
+            "categoryId": 7,
+            "choiceId": 3,
+            "contents": "콧물을 흘리는 경우가 있어요."
+        },
+        {
+            "categoryId": 7,
+            "choiceId": 4,
+            "contents": "눈곱이 많이 끼는 편이에요."
+        },
+        {
+            "categoryId": 7,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 8,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 8,
+            "choiceId": 4,
+            "contents": "자거나 쉬고 있을 때 숨을 빠르게 쉬어요."
+        },
+        {
+            "categoryId": 8,
+            "choiceId": 3,
+            "contents": "운동을 하면 금방 지쳐요."
+        },
+        {
+            "categoryId": 8,
+            "choiceId": 2,
+            "contents": "안았을 때 심장이 크게 뛰는 것이 느껴져요."
+        },
+        {
+            "categoryId": 8,
+            "choiceId": 1,
+            "contents": "저녁 시간대에 기침을 자주 해요."
+        },
+        {
+            "categoryId": 9,
+            "choiceId": 1,
+            "contents": "물을 평소보다 많이 마시는 것 같아요."
+        },
+        {
+            "categoryId": 9,
+            "choiceId": 2,
+            "contents": "소변을 보는 횟수가 늘었어요."
+        },
+        {
+            "categoryId": 9,
+            "choiceId": 3,
+            "contents": "평소보다 소변을 보는데 시간이 오래 걸려요."
+        },
+        {
+            "categoryId": 9,
+            "choiceId": 4,
+            "contents": "소변을 한방울씩 흘리면서 보는 경우가 있어요."
+        },
+        {
+            "categoryId": 9,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 10,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 10,
+            "choiceId": 4,
+            "contents": "묽은 변을 자주 보는 편이에요."
+        },
+        {
+            "categoryId": 10,
+            "choiceId": 3,
+            "contents": "이유 없이 식사를 거를 때가 있어요."
+        },
+        {
+            "categoryId": 10,
+            "choiceId": 2,
+            "contents": "동그랗고 딱딱한 변을 보는 경우가 있어요."
+        },
+        {
+            "categoryId": 10,
+            "choiceId": 1,
+            "contents": "음식물이나 위액을 토하는 경우가 있어요."
+        },
+        {
+            "categoryId": 11,
+            "choiceId": 1,
+            "contents": "소화되지 않은 음식을 토해내는 경우가 잦아요."
+        },
+        {
+            "categoryId": 11,
+            "choiceId": 2,
+            "contents": "기운이 없고 활동량이 적어요."
+        },
+        {
+            "categoryId": 11,
+            "choiceId": 3,
+            "contents": "식사량이 적고 체중이 빠진 것 같아요."
+        },
+        {
+            "categoryId": 11,
+            "choiceId": 4,
+            "contents": "눈, 피부, 잇몸이 누렇게 변했어요."
+        },
+        {
+            "categoryId": 11,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 14,
+            "choiceId": 4,
+            "contents": "따로 받지 않아요"
+        },
+        {
+            "categoryId": 14,
+            "choiceId": 3,
+            "contents": "2년에 1번 이상"
+        },
+        {
+            "categoryId": 14,
+            "choiceId": 2,
+            "contents": "1년에 1번 이상"
+        },
+        {
+            "categoryId": 14,
+            "choiceId": 1,
+            "contents": "6개월에 1번 이상"
+        },
+        {
+            "categoryId": 15,
+            "choiceId": 1,
+            "contents": "실내"
+        },
+        {
+            "categoryId": 15,
+            "choiceId": 2,
+            "contents": "실외"
+        },
+        {
+            "categoryId": 16,
+            "choiceId": 2,
+            "contents": "주 3회 이상"
+        },
+        {
+            "categoryId": 16,
+            "choiceId": 1,
+            "contents": "매일"
+        },
+        {
+            "categoryId": 16,
+            "choiceId": 3,
+            "contents": "주 3회 미만"
+        },
+        {
+            "categoryId": 16,
+            "choiceId": 4,
+            "contents": "거의 하지 않아요"
+        },
+        {
+            "categoryId": 17,
+            "choiceId": 4,
+            "contents": "거의 먹지 않아요"
+        },
+        {
+            "categoryId": 17,
+            "choiceId": 3,
+            "contents": "주 3회 미만"
+        },
+        {
+            "categoryId": 17,
+            "choiceId": 1,
+            "contents": "매일 2회 이상"
+        },
+        {
+            "categoryId": 17,
+            "choiceId": 2,
+            "contents": "매일 1회"
+        },
+        {
+            "categoryId": 18,
+            "choiceId": 2,
+            "contents": "격주나 달마다"
+        },
+        {
+            "categoryId": 18,
+            "choiceId": 1,
+            "contents": "매주"
+        },
+        {
+            "categoryId": 18,
+            "choiceId": 3,
+            "contents": "분기마다"
+        },
+        {
+            "categoryId": 18,
+            "choiceId": 4,
+            "contents": "거의 하지 않아요"
+        },
+        {
+            "categoryId": 22,
+            "choiceId": 4,
+            "contents": "무거워요//갈비뼈가 많은 지방으로 덮여 사이사이의 굴곡이 거의 느껴지지 않아요. 허리와 복부에 지방이 많아 위에서 보았을 때 허리를 구분하기 힘들어요."
+        },
+        {
+            "categoryId": 22,
+            "choiceId": 3,
+            "contents": "이상적이에요//갈비뼈 사이사이가 적당한 양의 지방으로 덮여 있어요. 허리가 구분되고 복부는 약간 들어가 있어요."
+        },
+        {
+            "categoryId": 22,
+            "choiceId": 5,
+            "contents": "비만이에요//매우 많은 지방이 몸 전체에 축적되어 있어요. 목, 가슴, 허리의 구분이 어렵고 몸 어디에서도 뼈를 만지기가 힘들어요."
+        },
+        {
+            "categoryId": 22,
+            "choiceId": 1,
+            "contents": "수척해요//갈비뼈, 허리뼈, 골반뼈를 포함한 모든 뼈의 돌출부가 뚜렷하게 보여요. 몸 어디에서도 체지방과 근육을 확인할 수 없어요."
+        },
+        {
+            "categoryId": 22,
+            "choiceId": 2,
+            "contents": "말랐어요//갈비뼈를 만졌을 때 뼈 사이사이가 매우 잘 느껴져요. 허리가 잘 구분되고 복부가 잘록해요."
+        },
+        {
+            "categoryId": 24,
+            "choiceId": 2,
+            "contents": "말랐어요//갈비뼈를 만졌을 때 뼈 사이사이가 매우 잘 느껴져요. 허리가 잘 구분되고 복부가 잘록해요."
+        },
+        {
+            "categoryId": 24,
+            "choiceId": 1,
+            "contents": "수척해요//갈비뼈, 허리뼈, 골반뼈를 포함한 모든 뼈의 돌출부가 뚜렷하게 보여요. 몸 어디에서도 체지방과 근육을 확인할 수 없어요."
+        },
+        {
+            "categoryId": 24,
+            "choiceId": 5,
+            "contents": "비만이에요//매우 많은 지방이 몸 전체에 축적되어 있어요. 목, 가슴, 허리의 구분이 어렵고 몸 어디에서도 뼈를 만지기가 힘들어요."
+        },
+        {
+            "categoryId": 24,
+            "choiceId": 3,
+            "contents": "이상적이에요//갈비뼈 사이사이가 적당한 양의 지방으로 덮여 있어요. 허리가 구분되고 복부는 약간 들어가 있어요."
+        },
+        {
+            "categoryId": 24,
+            "choiceId": 4,
+            "contents": "무거워요//갈비뼈가 많은 지방으로 덮여 사이사이의 굴곡이 거의 느껴지지 않아요. 허리와 복부에 지방이 많아 위에서 보았을 때 허리를 구분하기 힘들어요."
+        },
+        {
+            "categoryId": 26,
+            "choiceId": 4,
+            "contents": "발 끝을 수시로 핥거나 깨물어요."
+        },
+        {
+            "categoryId": 26,
+            "choiceId": 3,
+            "contents": "귀지가 많은 편이고 귀를 자주 긁어요."
+        },
+        {
+            "categoryId": 26,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 26,
+            "choiceId": 1,
+            "contents": "피부에 딱지나 뾰루지, 각질이 생겨요."
+        },
+        {
+            "categoryId": 26,
+            "choiceId": 2,
+            "contents": "피부를 자주 가려워하는 편이에요."
+        },
+        {
+            "categoryId": 27,
+            "choiceId": 2,
+            "contents": "이빨 색이 누렇게 보여요."
+        },
+        {
+            "categoryId": 27,
+            "choiceId": 1,
+            "contents": "양치질을 아파하는 것 같아요."
+        },
+        {
+            "categoryId": 27,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 27,
+            "choiceId": 3,
+            "contents": "갈수록 입냄새가 심해져요."
+        },
+        {
+            "categoryId": 27,
+            "choiceId": 4,
+            "contents": "사료나 간식을 흘리면서 먹어요."
+        },
+        {
+            "categoryId": 28,
+            "choiceId": 4,
+            "contents": "이유없이 아파하거나 몸을 떠는 경우가 있어요."
+        },
+        {
+            "categoryId": 28,
+            "choiceId": 3,
+            "contents": "걷는 모습이 어딘지 모르게 불편해보여요."
+        },
+        {
+            "categoryId": 28,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 28,
+            "choiceId": 1,
+            "contents": "다리에서 뚝뚝거리는 느낌을 받은 적이 있어요."
+        },
+        {
+            "categoryId": 28,
+            "choiceId": 2,
+            "contents": "예전처럼 활발하게 뛰어놀지 못해요."
+        },
+        {
+            "categoryId": 29,
+            "choiceId": 2,
+            "contents": "낯선 사람이나 동물에 대한 경계가 심해요."
+        },
+        {
+            "categoryId": 29,
+            "choiceId": 1,
+            "contents": "집에 혼자 남겨졌을 때 불안해하는 모습을 보여요."
+        },
+        {
+            "categoryId": 29,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 29,
+            "choiceId": 3,
+            "contents": "천둥 소리, 공사 소음 등 주변 큰 소리에 쉽게 놀라요."
+        },
+        {
+            "categoryId": 29,
+            "choiceId": 4,
+            "contents": "병원에 갈 때 스트레스를 많이 받아요."
+        },
+        {
+            "categoryId": 30,
+            "choiceId": 4,
+            "contents": "눈물을 많이 흘리는 편이에요."
+        },
+        {
+            "categoryId": 30,
+            "choiceId": 3,
+            "contents": "눈을 제대로 뜨지 못하는 경우가 있어요."
+        },
+        {
+            "categoryId": 30,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 30,
+            "choiceId": 1,
+            "contents": "눈이 예전과 달리 혼탁해졌어요."
+        },
+        {
+            "categoryId": 30,
+            "choiceId": 2,
+            "contents": "눈이 충혈되고 붓는 경우가 있어요."
+        },
+        {
+            "categoryId": 31,
+            "choiceId": 2,
+            "contents": "재채기를 종종 하는 편이에요."
+        },
+        {
+            "categoryId": 31,
+            "choiceId": 1,
+            "contents": "켁켁거리는 기침을 자주 해요."
+        },
+        {
+            "categoryId": 31,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 31,
+            "choiceId": 3,
+            "contents": "콧물을 흘리는 경우가 있어요."
+        },
+        {
+            "categoryId": 31,
+            "choiceId": 4,
+            "contents": "눈곱이 많이 끼는 편이에요."
+        },
+        {
+            "categoryId": 32,
+            "choiceId": 4,
+            "contents": "자거나 쉬고 있을 때 숨을 빠르게 쉬어요."
+        },
+        {
+            "categoryId": 32,
+            "choiceId": 3,
+            "contents": "운동을 하면 금방 지쳐요."
+        },
+        {
+            "categoryId": 32,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 32,
+            "choiceId": 1,
+            "contents": "저녁 시간대에 기침을 자주 해요."
+        },
+        {
+            "categoryId": 32,
+            "choiceId": 2,
+            "contents": "안았을 때 심장이 크게 뛰는 것이 느껴져요."
+        },
+        {
+            "categoryId": 33,
+            "choiceId": 2,
+            "contents": "소변을 보는 횟수가 늘었어요."
+        },
+        {
+            "categoryId": 33,
+            "choiceId": 1,
+            "contents": "물을 평소보다 많이 마시는 것 같아요."
+        },
+        {
+            "categoryId": 33,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 33,
+            "choiceId": 3,
+            "contents": "평소보다 소변을 보는데 시간이 오래 걸려요."
+        },
+        {
+            "categoryId": 33,
+            "choiceId": 4,
+            "contents": "소변을 한방울씩 흘리면서 보는 경우가 있어요."
+        },
+        {
+            "categoryId": 34,
+            "choiceId": 4,
+            "contents": "묽은 변을 자주 보는 편이에요."
+        },
+        {
+            "categoryId": 34,
+            "choiceId": 3,
+            "contents": "이유 없이 식사를 거를 때가 있어요."
+        },
+        {
+            "categoryId": 34,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 34,
+            "choiceId": 1,
+            "contents": "음식물이나 위액을 토하는 경우가 있어요."
+        },
+        {
+            "categoryId": 34,
+            "choiceId": 2,
+            "contents": "동그랗고 딱딱한 변을 보는 경우가 있어요."
+        },
+        {
+            "categoryId": 35,
+            "choiceId": 2,
+            "contents": "기운이 없고 활동량이 적어요."
+        },
+        {
+            "categoryId": 35,
+            "choiceId": 1,
+            "contents": "소화되지 않은 음식을 토해내는 경우가 잦아요."
+        },
+        {
+            "categoryId": 35,
+            "choiceId": 5,
+            "contents": "없어요."
+        },
+        {
+            "categoryId": 35,
+            "choiceId": 3,
+            "contents": "식사량이 적고 체중이 빠진 것 같아요."
+        },
+        {
+            "categoryId": 35,
+            "choiceId": 4,
+            "contents": "눈, 피부, 잇몸이 누렇게 변했어요."
+        },
+        {
+            "categoryId": 36,
+            "choiceId": 4,
+            "contents": "심장"
+        },
+        {
+            "categoryId": 36,
+            "choiceId": 3,
+            "contents": "신장/방광"
+        },
+        {
+            "categoryId": 36,
+            "choiceId": 5,
+            "contents": "면역력"
+        },
+        {
+            "categoryId": 36,
+            "choiceId": 11,
+            "contents": "없어요"
+        },
+        {
+            "categoryId": 36,
+            "choiceId": 10,
+            "contents": "행동"
+        },
+        {
+            "categoryId": 36,
+            "choiceId": 9,
+            "contents": "눈"
+        },
+        {
+            "categoryId": 36,
+            "choiceId": 8,
+            "contents": "귀/피부"
+        },
+        {
+            "categoryId": 36,
+            "choiceId": 7,
+            "contents": "뼈/관절"
+        },
+        {
+            "categoryId": 36,
+            "choiceId": 6,
+            "contents": "치아"
+        },
+        {
+            "categoryId": 36,
+            "choiceId": 1,
+            "contents": "간"
+        },
+        {
+            "categoryId": 36,
+            "choiceId": 2,
+            "contents": "위/장"
+        },
+        {
+            "categoryId": 37,
+            "choiceId": 2,
+            "contents": "1년에 1번 이상"
+        },
+        {
+            "categoryId": 37,
+            "choiceId": 1,
+            "contents": "6개월에 1번 이상"
+        },
+        {
+            "categoryId": 37,
+            "choiceId": 3,
+            "contents": "2년에 1번 이상"
+        },
+        {
+            "categoryId": 37,
+            "choiceId": 4,
+            "contents": "따로 받지 않아요"
+        },
+        {
+            "categoryId": 38,
+            "choiceId": 1,
+            "contents": "네"
+        },
+        {
+            "categoryId": 38,
+            "choiceId": 2,
+            "contents": "아니요"
+        },
+        {
+            "categoryId": 39,
+            "choiceId": 2,
+            "contents": "1시간"
+        },
+        {
+            "categoryId": 39,
+            "choiceId": 1,
+            "contents": "2시간 이상"
+        },
+        {
+            "categoryId": 39,
+            "choiceId": 4,
+            "contents": "거의 하지 않아요"
+        },
+        {
+            "categoryId": 39,
+            "choiceId": 3,
+            "contents": "30분 미만"
+        },
+        {
+            "categoryId": 40,
+            "choiceId": 3,
+            "contents": "주 3회 미만"
+        },
+        {
+            "categoryId": 40,
+            "choiceId": 4,
+            "contents": "거의 먹지 않아요"
+        },
+        {
+            "categoryId": 40,
+            "choiceId": 1,
+            "contents": "매일 2회 이상"
+        },
+        {
+            "categoryId": 40,
+            "choiceId": 2,
+            "contents": "매일 1회"
+        },
+        {
+            "categoryId": 41,
+            "choiceId": 2,
+            "contents": "아니오"
+        },
+        {
+            "categoryId": 41,
+            "choiceId": 1,
+            "contents": "네"
+        }
+    ]
+}
